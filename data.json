@@ -1,0 +1,72 @@
+{
+"version": "1.0",
+"signature": "ALMOSDAQIYA_RENTAL_DATA_V2",
+"lastUpdate": "2024-12-20T12:00:00.000Z",
+"updatedBy": "admin_setup",
+"units": [
+{
+"id": 1,
+"name": "شقة الخليج الراقية",
+"type": "شقة",
+"location": "صلالة الجديدة",
+"description": "شقة مفروشة بالكامل مع إطلالة رائعة على البحر، تحتوي على غرفتين وصالة ومطبخ مجهز",
+"images": [
+"https://picsum.photos/400/300?random=1",
+"https://picsum.photos/400/300?random=2",
+"https://picsum.photos/400/300?random=3"
+],
+"availability": {
+"2024-06-01": {"available": true, "price": 45},
+"2024-06-02": {"available": true, "price": 45},
+"2024-06-03": {"available": false, "price": 45},
+"2024-06-04": {"available": true, "price": 50},
+"2024-06-05": {"available": true, "price": 55},
+"2024-06-06": {"available": true, "price": 55},
+"2024-06-07": {"available": true, "price": 50},
+"2024-06-08": {"available": true, "price": 45}
+},
+"contact": {
+"whatsapp": "+96812345678",
+"phone": "+96812345678"
+}
+},
+{
+"id": 2,
+"name": "غرفة المرجان الهادئة",
+"type": "غرفة",
+"location": "صلالة الوسطى",
+"description": "غرفة نظيفة ومريحة مع حمام خاص، مناسبة للأفراد أو الأزواج",
+"images": [
+"https://picsum.photos/400/300?random=4",
+"https://picsum.photos/400/300?random=5"
+],
+"availability": {
+"2024-06-01": {"available": true, "price": 25},
+"2024-06-02": {"available": true, "price": 25},
+"2024-06-03": {"available": true, "price": 25},
+"2024-06-04": {"available": false, "price": 25},
+"2024-06-05": {"available": true, "price": 30},
+"2024-06-06": {"available": true, "price": 30},
+"2024-06-07": {"available": true, "price": 25}
+},
+"contact": {
+"whatsapp": "+96812345679",
+"phone": "+96812345679"
+}
+}
+],
+"siteSettings": {
+"companyName": "المصداقية لتأجير الوحدات السكنية",
+"phone": "+968 2345 6789",
+"whatsapp": "+968 9876 5432",
+"email": "info@almosdaqiya.om",
+"address": "صلالة، سلطنة عمان",
+"description": "نوفر أفضل الوحدات السكنية للإيجار في صلالة وضواحيها بأسعار مناسبة وخدمة متميزة."
+},
+"messages": [],
+"metadata": {
+"created": "2024-12-20T12:00:00.000Z",
+"creator": "AlMosdaqiya_Admin",
+"description": "بيانات موقع المصداقية لتأجير الوحدات السكنية"
+}
+}
